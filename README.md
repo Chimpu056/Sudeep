@@ -22,7 +22,7 @@ It provides insights into employee performance, salary distribution, and workfor
 ---
 
 ## 📷 Dashboard Preview
-(Add your screenshot here)
+![Dashboard](Hr Dashboard.png)
 
 ---
 
